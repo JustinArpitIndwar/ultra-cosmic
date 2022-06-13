@@ -5,7 +5,7 @@ import styles from '../styles/Home.module.css'
 export default function Home() {
   return (
     <>
-    <div className='h-[12rem] w-[10rem] rounded-lg shadow-lg bg-red-400 hover:bg-green-400 p-3'>Hello Gandu Choti</div>
+    <div className='h-[15rem] w-[10rem] rounded-lg shadow-lg bg-red-400 hover:bg-green-400 p-3'>Hello Gandu Choti</div>
     </>
   )
 }
