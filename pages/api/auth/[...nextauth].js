@@ -28,6 +28,6 @@ export default NextAuth({
             clientSecret: process.env.LINKEDIN_CLIENT_SECRET
         })
 
-    ]
-    secret:process.env.NEXTAUTH_SECRET
+    ],
+    secret : process.env.NEXTAUTH_SECRET
 })
